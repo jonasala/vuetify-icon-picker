@@ -1,7 +1,7 @@
 {
-  "name": "vuetify-icon-picker",
+  "name": "@jonasala/vuetify-icon-picker",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
@@ -43,5 +43,17 @@
     "> 1%",
     "last 2 versions",
     "not dead"
-  ]
+  ],
+  "description": "一个 Vuetify 中的 [material design icons](https://materialdesignicons.com/) 选择器。",
+  "main": "babel.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonasala/vuetify-icon-picker.git"
+  },
+  "author": "Jonas Sala",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonasala/vuetify-icon-picker/issues"
+  },
+  "homepage": "https://github.com/jonasala/vuetify-icon-picker#readme"
 }
