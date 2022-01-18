@@ -1,5 +1,5 @@
 {
-  "name": "@jonasala/vuetify-icon-picker-pt",
+  "name": "vuetify-icon-picker-pt",
   "version": "0.1.0",
   "private": false,
   "scripts": {
@@ -48,12 +48,12 @@
   "main": "babel.config.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jonasala/vuetify-icon-picker.git"
+    "url": "git+https://github.com/jonasala/vuetify-icon-picker-pt.git"
   },
   "author": "Jonas Sala",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jonasala/vuetify-icon-picker/issues"
+    "url": "https://github.com/jonasala/vuetify-icon-picker-pt/issues"
   },
-  "homepage": "https://github.com/jonasala/vuetify-icon-picker#readme"
+  "homepage": "https://github.com/jonasala/vuetify-icon-picker-pt#readme"
 }
